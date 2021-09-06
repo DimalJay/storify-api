@@ -8,8 +8,7 @@ def getContent(soup):
     content = ""
     parg = soup.findAll("p")
     for p in parg:
-        if(p.text.strip() != ""):
-            content += p.text.strip()+"\n"
+        content += p.text.strip()
     return content
 
 def getTitle(soup):
