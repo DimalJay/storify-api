@@ -8,7 +8,7 @@ gunicorn = "*"
 flask = "*"
 requests = "*"
 bs4 = "*"
-newspaper = "*"
+newspaper3k = "*"
 
 [dev-packages]
 
