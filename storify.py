@@ -36,7 +36,10 @@ urls = [
     "https://telegra.ph/%E0%B6%B8%E0%B6%BD%E0%B6%9A%E0%B6%B8%E0%B6%AF-%E0%B7%80%E0%B6%BA%E0%B6%BA%E0%B6%AD-08-06-15",
     "https://telegra.ph/OPERATION-K--L---15-07-13",
     "https://telegra.ph/%E0%B7%82%E0%B6%BD-06-05",
-    "https://telegra.ph/%E0%B6%AF%E0%B7%80%E0%B6%BA%E0%B6%A7-%E0%B7%83%E0%B6%BB%E0%B6%AF%E0%B6%B8%E0%B6%9A--%E0%B6%9A%E0%B6%A7%E0%B6%9A%E0%B6%AD%E0%B7%80%E0%B6%9A-09-05"
+    "https://telegra.ph/%E0%B6%AF%E0%B7%80%E0%B6%BA%E0%B6%A7-%E0%B7%83%E0%B6%BB%E0%B6%AF%E0%B6%B8%E0%B6%9A--%E0%B6%9A%E0%B6%A7%E0%B6%9A%E0%B6%AD%E0%B7%80%E0%B6%9A-09-05",
+    "https://telegra.ph/%E0%B6%B1%E0%B7%80%E0%B6%AD-%E0%B7%84%E0%B6%B8%E0%B7%80%E0%B7%80%E0%B6%AF-%E0%B6%B1%E0%B6%B9-%E0%B6%9A%E0%B6%A7-%E0%B6%9A%E0%B6%AD%E0%B7%80-09-04",
+    "https://telegra.ph/%E0%B7%83%E0%B7%86%E0%B6%B1---%E0%B6%BB%E0%B6%AB-%E0%B6%B6%E0%B6%B8-%E0%B6%9A%E0%B6%B8%E0%B6%BB%E0%B6%BA-%E0%B6%9A%E0%B6%A7-%E0%B6%9A%E0%B6%AD%E0%B7%80-09-03",
+    "https://telegra.ph/%E0%B6%B1%E0%B6%B9-%E0%B7%84%E0%B6%B1%E0%B6%BA-%E0%B6%B1%E0%B7%83-09-05",
 ]
 
 def getArticles():
