@@ -8,4 +8,5 @@ def bot():
     return jsonify(getArticles())
 
 
-app.run( port=8000, debug=True)
+if __name__ == '__main__':
+    app.run()
